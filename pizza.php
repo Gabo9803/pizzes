@@ -25,7 +25,7 @@
  exit(0);
 }
 echo "<br>";
-echo "Autor: Gabo9803"."<br>";
+echo "Autor: Gabo"."<br>";
  ?>
  </body>
 </html>
