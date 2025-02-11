@@ -24,7 +24,7 @@
      # exit(0);
  }
  echo "<br>";
- echo "Autor: Gabo9803"."<br>";
+ echo "Autor: Gabo"."<br>";
  ?>
 
  <!-- Afegim l'enllaç per tornar al formulari -->
