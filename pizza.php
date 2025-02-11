@@ -25,6 +25,7 @@
  }
  echo "<br>";
  echo "Autor: Gabo9803"."<br>";
+echo date("l jS \of F Y h:i:s A") . "<br>";
  ?>
 
  <!-- Afegim l'enllaç per tornar al formulari -->
